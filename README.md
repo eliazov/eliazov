@@ -7,11 +7,11 @@
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/elia-zovico-16b15420b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <code><a href="https://www.linkedin.com/in/elia-zovico-16b15420b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>Linkedin</a></code>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://eliazov.github.io/page"><img width="32px" alt="Website" title="Website" src="images/language_32dp_F75C7E_FILL0_wght400_GRAD0_opsz40.png"/></a>
+  <code><a href="https://eliazov.github.io/page"><img width="32px" alt="Website" title="Website" src="images/language_32dp_F75C7E_FILL0_wght400_GRAD0_opsz40.png"/>Website</a></code>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Cv" title="Cv" src="images/IconPDF3.png"></a>
+  <code><a href="https://dev.to/denvercoder1"><img width="32px" alt="Cv" title="Cv" src="images/IconPDF3.png">Curriculum</a></code>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
