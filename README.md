@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/eliazov">
-  <img src="https://svg-badge.vercel.app/api?text=Elia%20Zovico&bg=DF2E69&color=ffffff&fontSize=30&padding=12" />
+  <img src="./images/name.png" />
 </a>
 </p>
 
@@ -38,8 +38,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
     <a href="https://github.com/eliazov/YouProject-presentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eliazov&repo=YouProject-presentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="YouProject"></a>
-    <a href="https://github.com/eliazov/TripPair-presentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eliazov&repo=TripPair-presentation
-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="TripPair"></a>
+    <a href="https://github.com/eliazov/TripPair-presentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eliazov&repo=TripPair-presentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="TripPair"></a>
     <a href="https://github.com/eliazov/Futsal-tournament-CusTN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=eliazov&repo=Futsal-tournament-CusTN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Campionato Unitn"></a>
     <a href="https://github.com/eliazov/Algorithm-and-Data-Structure-2024"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eliazov&repo=Algorithm-and-Data-Structure-2024&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Algorithm"></a>
 
