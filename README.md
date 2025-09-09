@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://eliazov.github.io/page"><img width="32px" alt="Website" title="Website" src="images/language_32dp_F75C7E_FILL0_wght400_GRAD0_opsz40.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="CV" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Cv" title="Cv" src="images/IconPDF3.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <p align="center">
