@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://github.com/eliazov" style="font-size: 30px; color: rgba(223, 46, 105, 1); font-weight: bold; letter-spacing: 2px">Elia Zovico
+<a href="https://github.com/eliazov">
+  <img src="https://svg-badge.vercel.app/api?text=Elia%20Zovico&bg=DF2E69&color=ffffff&fontSize=30&padding=12" />
 </a>
 </p>
 
@@ -8,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/elia-zovico-16b15420b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://eliazov.github.io/page"><img width="32px" alt="Website" title="Website" src="./language_32dp_F75C7E_FILL0_wght400_GRAD0_opsz40.png"/></a>
+  <a href="https://eliazov.github.io/page"><img width="32px" alt="Website" title="Website" src="images/language_32dp_F75C7E_FILL0_wght400_GRAD0_opsz40.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="CV" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -31,7 +32,7 @@
 
 <br>
 
-  <summary><h2 align="center">📘 Repositories</h2></summary>
+  <h2 align="center">📘 Repositories</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -46,7 +47,7 @@
   <a href="https://github.com/eliazov?tab=repositories" title="Show Repositories">🔎 All repo🔍</a>
 </h4>
 <br>
-  <summary><h2 align="center">🛠️ My Favorite Tools</h2></summary>
+<h2 align="center">🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
@@ -86,7 +87,7 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
 <br>
-  <summary><h2 align="center">📊 Stats and Activity</h2></summary>
+ <h2 align="center">📊 Stats and Activity</h2>
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eliazov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
